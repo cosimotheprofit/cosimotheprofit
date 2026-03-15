@@ -18,9 +18,9 @@ I am a firm believer in **Risk-as-Code**—the idea that risk management should 
 ### 🧪 Current Lab Projects
 *Currently focused on refactoring legacy enterprise modeling logic into modular, open-source-friendly frameworks.*
 
-* **[Project Name Placeholder]:** A modular Python engine for Monte Carlo simulations that abstracts proprietary financial logic into reusable probability distribution templates.
+* **FAIR Cyber Risk Model 3.0:** A modular Python engine for Monte Carlo simulations that abstracts proprietary financial logic into reusable probability distribution templates.
 * **KRI-Automation-Framework:** Scripts for "stitching" together disparate data sources (Security telemetry, Financial APIs) into automated executive dashboards.
-* **FAIR-Denominated-Loss-Library:** A library for mapping technical vulnerabilities (CVEs) to financial loss distributions (Primary/Secondary loss modeling).
+
 
 ---
 
@@ -32,5 +32,5 @@ I bridge the gap between the **C-Suite** and the **IDE**.
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** [] Not looking lol but email cosimotheprofit@gmail.com
 - **Specialties:** If you want to talk about the math behind ransomware insurance limits, interest rate volatility shocks, or why your 1.0 spacing in Google Docs is ruining your life—reach out.
